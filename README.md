@@ -22,7 +22,7 @@ pod 'YCPopupManager'
 
 ## Author
 
-Loveying, xiayy3@sany.com.cn
+xiayy0328, xyy_ios@163.com
 
 ## License
 
