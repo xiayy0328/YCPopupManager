@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YCPopupManager'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of YCPopupManager.'
+  s.summary          = 'Quickly build App common pop-ups'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,18 +18,18 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  Quickly build the common popup effect of the App, just focus on the popup style
                        DESC
 
-  s.homepage         = 'https://github.com/Loveying/YCPopupManager'
+  s.homepage         = 'https://github.com/xiayy0328/YCPopupManager'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Loveying' => 'xiayy3@sany.com.cn' }
-  s.source           = { :git => 'https://github.com/Loveying/YCPopupManager.git', :tag => s.version.to_s }
+  s.author           = { 'xiayy0328' => 'xyy_ios@163.com' }
+  s.source           = { :git => 'https://github.com/xiayy0328/YCPopupManager.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
-
+  s.ios.deployment_target = '12.0'
+  s.swift_version = '5.0'
   s.source_files = 'YCPopupManager/Classes/**/*'
   
   # s.resource_bundles = {

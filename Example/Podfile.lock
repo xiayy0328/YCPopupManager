@@ -1,0 +1,16 @@
+PODS:
+  - YCPopupManager (0.1.0)
+
+DEPENDENCIES:
+  - YCPopupManager (from `../`)
+
+EXTERNAL SOURCES:
+  YCPopupManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YCPopupManager: fe09f7148bd3e90e3a13322bde1a1dce99401bbf
+
+PODFILE CHECKSUM: a8f8aab2b8f7b20184f9941492e205cde3ecf13a
+
+COCOAPODS: 1.14.2
